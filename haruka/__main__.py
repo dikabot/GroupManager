@@ -25,6 +25,8 @@ Hi nama saya dika .
 Saya adalah bot pintar yang di buat khusus untuk mengelola grup anda
 Tambahkan saya kedalam grup sampah anda 
 Lainnya kasih gabut pc aja ownernya.
+[Owner](https://t.me/dikafake)
+[Join Sini](https://t.me/publikchatting)
 """
 
 
@@ -142,7 +144,7 @@ def send_start(bot, update):
     first_name = update.effective_user.first_name 
     text = PM_START
 
-    keyboard = [[InlineKeyboardButton(text="🇮🇳 Language", callback_data="set_lang_")]]
+    keyboard = [[InlineKeyboardButton(text="Language", callback_data="set_lang_")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Reporting", callback_data="cntrl_panel_M"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
 
