@@ -21,7 +21,6 @@ from haruka.modules.translations.strings import tld, tld_help
 from haruka.modules.connection import connected
 
 PM_START = """Hello {}, Nama Saya {}!
-Hi nama saya dika .
 Saya adalah bot pintar yang di buat khusus untuk mengelola grup anda
 Tambahkan saya kedalam grup sampah anda 
 Lainnya kasih gabut pc aja ownernya.
