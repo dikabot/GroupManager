@@ -1,9 +1,11 @@
 # How to deploy?
 [Watch video tutorial on deploying](https://youtu.be/gXXFpTAk6Vo)
 
-# GroupManager
+### Bot
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2Fgroupmanager)
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/dikabot/GroupManager"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku" width="210" height="34.45" /></a></p>
+
+<br>
 
 A modular Telegram Python bot running on python3 with an sqlalchemy database.
 
